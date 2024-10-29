@@ -1,5 +1,7 @@
 # 💫 About Me:
-Certified Cloud Operations and Solutions Architect with 5+ years in managing cloud infrastructure and delivering hybrid cloud solutions. <br>Experienced in client-facing roles, designing, implementing and supporting Azure and AWS platforms. <br>Strong expertise in high-availability solutions, disaster recovery and cloud migration projects.
+- Certified Cloud Operations and Solutions Architect with 5+ years in managing cloud infrastructure and delivering hybrid cloud solutions. <be>
+- Experienced in client-facing roles, designing, implementing and supporting Azure and AWS platforms. <be>
+- Strong expertise in high-availability solutions, disaster recovery and cloud migration projects.
 
 
 ## 🌐 Socials:
