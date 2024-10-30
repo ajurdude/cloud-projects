@@ -1,6 +1,6 @@
-# Readme for GitHub Pages
+# Cloud Computing Projects by Arjun Jadhav
 
-This README provides an overview of the GitHub Pages site, which serves as a showcase of my cloud computing projects and expertise.
+This README provides an overview of my cloud computing projects and expertise.
 
 ## Introduction
 
