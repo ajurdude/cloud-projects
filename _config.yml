@@ -4,9 +4,6 @@ plugins:
 title: [Cloud Computing Projects by Arjun Jadhav]
 description: [A showcase of cloud computing projects including AWS and Azure solutions, DevOps practices and more.]
 
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-
 github:
   zip_url: https://github.com/ajurdude/cloud-projects
   another_url: https://github.com/ncirlstudent
