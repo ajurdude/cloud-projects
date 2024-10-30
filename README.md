@@ -1,11 +1,58 @@
-# 💫 About Me:
-- Certified Cloud Operations and Solutions Architect with 5+ years in managing cloud infrastructure and delivering hybrid cloud solutions. <be>
-- Experienced in client-facing roles, designing, implementing and supporting Azure and AWS platforms. <be>
-- Strong expertise in high-availability solutions, disaster recovery and cloud migration projects.
+# Readme for GitHub Pages
 
+This README provides an overview of the GitHub Pages site, which serves as a showcase of my cloud computing projects and expertise.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunjadhav) 
+## Introduction
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+This repository contains various cloud computing projects that I have worked on, utilizing my skills in AWS, Azure, and other cloud technologies. The projects demonstrate practical solutions involving cloud infrastructure, automation, and hybrid cloud integration.
+
+## Projects Overview
+
+### 1. Secure Deployment of CharityConnect Web Application
+
+- **Description**: Developed a cloud-based platform for charities using Jenkins for CI/CD, Terraform for infrastructure as code, and AWS (EC2, S3).
+- **Security**: Integrated OWASP Sonarqube to ensure security best practices were followed throughout the development lifecycle.
+
+### 2. Development of E-Commerce Marketplace: FabricConnect
+
+- **Description**: Created an e-commerce platform linking designers with local suppliers using AWS services like Cloud9, EC2, S3, Lambda, and CloudWatch.
+- **Objective**: Aimed to reduce global supply chain reliance and lower carbon emissions.
+
+### 3. Cloud Architectures
+
+- **Description**: Explored Red Hat OpenShift for containerization strategies and cloud-native application deployments.
+
+## Skills and Tools
+
+- **Cloud Services**:
+  - **AWS**: EC2, S3, Lambda, CloudWatch, SageMaker, Elastic Beanstalk, Cloud9.
+  - **Azure**: Azure Active Directory, Security Center, Virtual Machines, Load Balancing.
+- **Automation & DevOps**: Jenkins (CI/CD), Terraform, PowerShell scripting.
+- **Big Data & Machine Learning**: Hadoop, Apache Spark, AWS SageMaker.
+- **Languages & Tools**: Python, PowerShell, Terraform, Jenkins, Ansible, VMware, Hyper-V.
+
+## Certifications
+
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** (Oct 2024)
+- **AWS Certified Cloud Practitioner (CLF-C02)** (Oct 2024)
+- **ITIL Foundation** (Feb 2017)
+
+## Career Highlights
+
+### Senior Consultant – Cloud Operations (Sept 2016 – Aug 2021) | Infogain Solutions Limited
+
+- **Role**: Provided technical support for Microsoft Azure cloud infrastructure, including high availability, disaster recovery, and security.
+- **Achievements**: Authored 48 knowledge-based articles to improve team efficiency and streamline recurring technical issues.
+
+### Technical Support Engineer (Jan 2015 – Feb 2016) | GroupOn Technologies Pvt. Ltd.
+
+- **Role**: Delivered first-level technical support for Microsoft Windows client systems, managed WHMCS ticketing system, and improved customer satisfaction through prompt resolutions.
+
+## Contact Information
+
+- **GitHub**: [ajurdude/cloud-projects](https://github.com/ajurdude/cloud-projects.git)
+- **LinkedIn**: [linkedin.com/in/arjunjadhav](https://www.linkedin.com/in/arjunjadhav)
+- **Email**: [Arjunjadhav1993@outlook.com](mailto\:Arjunjadhav1993@outlook.com)
+
+Feel free to explore the projects and reach out if you have any questions or collaboration ideas.
+
